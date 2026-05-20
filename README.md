@@ -6,10 +6,6 @@ AI & Python developer focused on agents, ML, and automation.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📊 GitHub stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=jiayizhang19&show_icons=true&theme=default)](https://github.com/jiayizhang19)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiayizhang19&layout=compact)](https://github.com/jiayizhang19)
 
 ## 📫 Let's connect
 
