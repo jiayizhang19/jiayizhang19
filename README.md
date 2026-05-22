@@ -1,6 +1,6 @@
 # Hi, I'm Jiayi Zhang 👋
 
-### AI & Python developer focused on ML, AI, agents and automation.
+#### AI & Python developer focused on ML, AI, agents and automation.
 
 ## 🛠 Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
