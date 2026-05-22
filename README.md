@@ -18,6 +18,8 @@ AI & Python developer focused on ML, AI, agents and automation.
 
 
 ## 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiayi-zhang19/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:j.zhang19@outlook.com)
 
 <!--
 **jiayizhang19/jiayizhang19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
